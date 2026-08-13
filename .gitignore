@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.cover
+_trace_counts
+build/
+dist/
+*.spec
+.pytest_cache/
